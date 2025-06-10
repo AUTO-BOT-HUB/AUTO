@@ -12,5 +12,6 @@ public class Class3 extends Class1 {
         //able to access public variable in subclass outside a package
         Class1 cs4 = new Class1();
         System.out.println(cs4.publicString);
+        System.out.println("Single Change");
     }
 }

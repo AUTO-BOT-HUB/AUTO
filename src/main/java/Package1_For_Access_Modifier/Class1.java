@@ -20,5 +20,6 @@ public class Class1 {
     public static void main(String[] args) {
         Class1 cs1 = new Class1();
         cs1.getterMethod();
+        System.out.println("Single Change");
     }
 }
