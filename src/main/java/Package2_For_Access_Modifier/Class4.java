@@ -7,5 +7,6 @@ public class Class4 {
         Class1 cs5 = new Class1();
         System.out.println(cs5.publicString);
         System.out.println("Single Change");
+        System.out.println("Second Change");
     }
 }

@@ -13,5 +13,6 @@ public class Class3 extends Class1 {
         Class1 cs4 = new Class1();
         System.out.println(cs4.publicString);
         System.out.println("Single Change");
+        System.out.println("Second Change");
     }
 }

@@ -21,5 +21,6 @@ public class Class1 {
         Class1 cs1 = new Class1();
         cs1.getterMethod();
         System.out.println("Single Change");
+        System.out.println("Second Change");
     }
 }

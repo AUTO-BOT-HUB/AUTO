@@ -16,5 +16,6 @@ public class Class2 extends Class1{
         System.out.println(cs3.defaultString);
         System.out.println(cs3.publicString);
         System.out.println("Single Change");
+        System.out.println("Second Change");
     }
 }
