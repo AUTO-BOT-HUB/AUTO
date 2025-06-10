@@ -3,6 +3,7 @@ package Package1_For_Access_Modifier;
 public class Class1 {
     public String publicString = "Public String";
     public static String public_static_string = "Static String";
+    String defaultString = "Default String";
     private String privateString = "Private String";
     protected String protectedString = "Protected String";
 
